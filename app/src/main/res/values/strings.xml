@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="first_question">1. How do you say \"Un niño\" in English?</string>
+    <string name="second_question">2. Which of these is \"The apple\"?</string>
+    <string name="third_question">3. How would you describe this picture?</string>
+    <string name="fourth_question">4. Select all that are grammatically correct</string>
+    <string name="fifth_question">5. How do you say \"the egg\" in Spanish?</string>
+</resources>
